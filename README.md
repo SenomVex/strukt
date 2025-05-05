@@ -3,18 +3,18 @@ pythonProject11/
 ├── .gitignore           # Список файлов и директорий, которые не нужно отслеживать в Git
 ├── app.py               # Основной файл FastAPI
 ├── static/              # Статические файлы (CSS, изображения)
-│   ├── style.css        # CSS стили
-│   └── img/             # Изображения
-│       ├── golo.png     # Логотип
-│       ├── filtr1.png  # Фильтр 1
-│       ├── filtr2.png  # Фильтр 2
-│       ├── filtr3.png  # Фильтр 3
-│       ├── filtr4.png  # Фильтр 4
-│       └── filtr5.png  # Фильтр 5
+│├── style.css        # CSS стили
+│└── img/             # Изображения
+│├── golo.png     # Логотип
+│├── filtr1.png  # Фильтр 1
+│├── filtr2.png  # Фильтр 2
+│├── filtr3.png  # Фильтр 3
+│├── filtr4.png  # Фильтр 4
+│└── filtr5.png  # Фильтр 5
 ├── templates/           # Шаблоны страниц (HTML)
-│   ├── oKompanii.html       # Страница "О компании"
-│   ├── catalogi.html     # Страница "Каталог"
-│   ├── contact.html    # Страница "Контакты"
-│   └── home.html       # Главная страница
+│├── oKompanii.html       # Страница "О компании"
+│├── catalogi.html     # Страница "Каталог"
+│├── contact.html    # Страница "Контакты"
+│└── home.html       # Главная страница
 ├── requirements.txt     # Список зависимостей
 └── venv/                # Виртуальное окружение (содержимое описано ниже)
